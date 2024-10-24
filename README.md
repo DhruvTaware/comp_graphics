@@ -1,2 +1,2 @@
 # comp_graphics
-ghggjhg
+this is computer graphics codes using libgraph library and opengl sources
